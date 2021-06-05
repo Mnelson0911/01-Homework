@@ -18,6 +18,7 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
+    
 }
 
 .header h1 .seo {
@@ -73,6 +74,11 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+h2{
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .benefits {
@@ -171,21 +177,6 @@ p {
 
 .social-media-marketing img {
     max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .footer {
